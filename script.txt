@@ -1,0 +1,2090 @@
+db.reports.insertMany([
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "1",
+        "amount": "1150"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "2",
+        "amount": "1090"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "3",
+        "amount": "1110"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "4",
+        "amount": "1120"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "5",
+        "amount": "1155"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "6",
+        "amount": "1160"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "7",
+        "amount": "1135"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "8",
+        "amount": "1110"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "9",
+        "amount": "1120"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "10",
+        "amount": "1075"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "11",
+        "amount": "1095"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "12",
+        "amount": "1065"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "13",
+        "amount": "1100"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "14",
+        "amount": "1105"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "15",
+        "amount": "1125"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "16",
+        "amount": "1100"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "17",
+        "amount": "1120"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "18",
+        "amount": "1190"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "19",
+        "amount": "1125"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "20",
+        "amount": "1145"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "21",
+        "amount": "1125"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "22",
+        "amount": "1050"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "23",
+        "amount": "1055"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "24",
+        "amount": "1050"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "25",
+        "amount": "1085"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "26",
+        "amount": "1065"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "27",
+        "amount": "1085"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "28",
+        "amount": "1125"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "29",
+        "amount": "1055"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "30",
+        "amount": "1040"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "1",
+        "amount": "1050"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "2",
+        "amount": "1085"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "3",
+        "amount": "1070"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "4",
+        "amount": "975"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "5",
+        "amount": "1085"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "6",
+        "amount": "1000"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "7",
+        "amount": "1030"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "8",
+        "amount": "1000"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "9",
+        "amount": "1080"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "10",
+        "amount": "1065"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "11",
+        "amount": "1035"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "12",
+        "amount": "1050"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "13",
+        "amount": "1125"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "14",
+        "amount": "975"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "15",
+        "amount": "990"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "16",
+        "amount": "1065"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "17",
+        "amount": "990"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "18",
+        "amount": "985"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "19",
+        "amount": "895"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "20",
+        "amount": "865"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "21",
+        "amount": "905"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "22",
+        "amount": "960"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "23",
+        "amount": "985"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "24",
+        "amount": "975"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "25",
+        "amount": "955"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "26",
+        "amount": "1040"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "27",
+        "amount": "1000"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "28",
+        "amount": "1015"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "29",
+        "amount": "980"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "30",
+        "amount": "1040"
+    },
+    {
+        "sub_type_id": "56727",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "31",
+        "amount": "1015"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "1",
+        "amount": "1055"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "2",
+        "amount": "1135"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "3",
+        "amount": "1095"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "4",
+        "amount": "1135"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "5",
+        "amount": "1220"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "6",
+        "amount": "1060"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "7",
+        "amount": "1125"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "8",
+        "amount": "1085"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "9",
+        "amount": "1085"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "10",
+        "amount": "1140"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "11",
+        "amount": "1025"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "12",
+        "amount": "990"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "13",
+        "amount": "1075"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "14",
+        "amount": "1055"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "15",
+        "amount": "1030"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "16",
+        "amount": "1080"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "17",
+        "amount": "1105"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "18",
+        "amount": "1180"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "19",
+        "amount": "1180"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "20",
+        "amount": "1215"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "21",
+        "amount": "1105"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "22",
+        "amount": "1025"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "23",
+        "amount": "1015"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "24",
+        "amount": "980"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "25",
+        "amount": "1060"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "26",
+        "amount": "1060"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "27",
+        "amount": "1055"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "28",
+        "amount": "1105"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "29",
+        "amount": "985"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "30",
+        "amount": "975"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "1",
+        "amount": "1055"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "2",
+        "amount": "1050"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "3",
+        "amount": "1045"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "4",
+        "amount": "1065"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "5",
+        "amount": "1015"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "6",
+        "amount": "915"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "7",
+        "amount": "1030"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "8",
+        "amount": "995"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "9",
+        "amount": "1005"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "10",
+        "amount": "1115"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "11",
+        "amount": "1005"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "12",
+        "amount": "1025"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "13",
+        "amount": "1045"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "14",
+        "amount": "1060"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "15",
+        "amount": "1080"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "16",
+        "amount": "1040"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "17",
+        "amount": "1060"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "18",
+        "amount": "960"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "19",
+        "amount": "840"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "20",
+        "amount": "940"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "21",
+        "amount": "1000"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "22",
+        "amount": "925"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "23",
+        "amount": "955"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "24",
+        "amount": "920"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "25",
+        "amount": "880"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "26",
+        "amount": "1015"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "27",
+        "amount": "1095"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "28",
+        "amount": "985"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "29",
+        "amount": "960"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "30",
+        "amount": "1055"
+    },
+    {
+        "sub_type_id": "56728",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "31",
+        "amount": "975"
+    },
+    {
+        "sub_type_id": "61893",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "5",
+        "amount": "105"
+    },
+    {
+        "sub_type_id": "61893",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "12",
+        "amount": "65"
+    },
+    {
+        "sub_type_id": "61893",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "18",
+        "amount": "25"
+    },
+    {
+        "sub_type_id": "61893",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "19",
+        "amount": "65"
+    },
+    {
+        "sub_type_id": "61893",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "26",
+        "amount": "55"
+    },
+    {
+        "sub_type_id": "61893",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "7",
+        "amount": "100"
+    },
+    {
+        "sub_type_id": "61893",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "14",
+        "amount": "70"
+    },
+    {
+        "sub_type_id": "61893",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "21",
+        "amount": "75"
+    },
+    {
+        "sub_type_id": "61893",
+        "type_id": "1",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "28",
+        "amount": "65"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "1",
+        "amount": "195"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "2",
+        "amount": "207"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "3",
+        "amount": "207"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "4",
+        "amount": "207"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "5",
+        "amount": "213"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "6",
+        "amount": "207"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "7",
+        "amount": "210"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "8",
+        "amount": "216"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "9",
+        "amount": "225"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "10",
+        "amount": "225"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "11",
+        "amount": "213"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "12",
+        "amount": "186"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "13",
+        "amount": "177"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "14",
+        "amount": "171"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "15",
+        "amount": "174"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "16",
+        "amount": "207"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "17",
+        "amount": "201"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "18",
+        "amount": "183"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "19",
+        "amount": "201"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "20",
+        "amount": "201"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "21",
+        "amount": "192"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "22",
+        "amount": "195"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "23",
+        "amount": "195"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "24",
+        "amount": "207"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "25",
+        "amount": "201"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "26",
+        "amount": "201"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "27",
+        "amount": "201"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "28",
+        "amount": "201"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "29",
+        "amount": "189"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "30",
+        "amount": "189"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "1",
+        "amount": "201"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "2",
+        "amount": "186"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "3",
+        "amount": "177"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "4",
+        "amount": "177"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "5",
+        "amount": "192"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "6",
+        "amount": "174"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "7",
+        "amount": "201"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "8",
+        "amount": "195"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "9",
+        "amount": "174"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "10",
+        "amount": "189"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "11",
+        "amount": "177"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "12",
+        "amount": "177"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "13",
+        "amount": "177"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "14",
+        "amount": "186"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "15",
+        "amount": "177"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "16",
+        "amount": "195"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "17",
+        "amount": "186"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "18",
+        "amount": "192"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "19",
+        "amount": "198"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "20",
+        "amount": "192"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "21",
+        "amount": "198"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "22",
+        "amount": "180"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "23",
+        "amount": "198"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "24",
+        "amount": "183"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "25",
+        "amount": "174"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "26",
+        "amount": "186"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "27",
+        "amount": "180"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "28",
+        "amount": "192"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "29",
+        "amount": "204"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "30",
+        "amount": "186"
+    },
+    {
+        "sub_type_id": "51472",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "31",
+        "amount": "174"
+    },
+    {
+        "sub_type_id": "51476",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "5",
+        "amount": "27"
+    },
+    {
+        "sub_type_id": "51476",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "12",
+        "amount": "27"
+    },
+    {
+        "sub_type_id": "51476",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "19",
+        "amount": "18"
+    },
+    {
+        "sub_type_id": "51476",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "26",
+        "amount": "24"
+    },
+    {
+        "sub_type_id": "51476",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "7",
+        "amount": "27"
+    },
+    {
+        "sub_type_id": "51476",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "14",
+        "amount": "24"
+    },
+    {
+        "sub_type_id": "51476",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "21",
+        "amount": "24"
+    },
+    {
+        "sub_type_id": "51476",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "28",
+        "amount": "30"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "1",
+        "amount": "195"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "2",
+        "amount": "195"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "3",
+        "amount": "201"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "4",
+        "amount": "207"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "5",
+        "amount": "210"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "6",
+        "amount": "201"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "7",
+        "amount": "201"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "8",
+        "amount": "213"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "9",
+        "amount": "222"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "10",
+        "amount": "216"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "11",
+        "amount": "201"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "12",
+        "amount": "183"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "13",
+        "amount": "183"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "14",
+        "amount": "174"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "15",
+        "amount": "174"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "16",
+        "amount": "207"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "17",
+        "amount": "192"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "18",
+        "amount": "180"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "19",
+        "amount": "198"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "20",
+        "amount": "204"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "21",
+        "amount": "186"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "22",
+        "amount": "195"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "23",
+        "amount": "186"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "24",
+        "amount": "213"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "25",
+        "amount": "198"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "26",
+        "amount": "198"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "27",
+        "amount": "192"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "28",
+        "amount": "195"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "29",
+        "amount": "189"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "6",
+        "rec_day": "30",
+        "amount": "186"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "1",
+        "amount": "195"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "2",
+        "amount": "180"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "3",
+        "amount": "189"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "4",
+        "amount": "183"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "5",
+        "amount": "180"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "6",
+        "amount": "171"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "7",
+        "amount": "189"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "8",
+        "amount": "180"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "9",
+        "amount": "177"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "10",
+        "amount": "186"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "11",
+        "amount": "168"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "12",
+        "amount": "183"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "13",
+        "amount": "183"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "14",
+        "amount": "198"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "15",
+        "amount": "186"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "16",
+        "amount": "195"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "17",
+        "amount": "183"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "18",
+        "amount": "186"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "19",
+        "amount": "195"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "20",
+        "amount": "177"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "21",
+        "amount": "195"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "22",
+        "amount": "180"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "23",
+        "amount": "201"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "24",
+        "amount": "180"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "25",
+        "amount": "174"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "26",
+        "amount": "189"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "27",
+        "amount": "180"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "28",
+        "amount": "186"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "29",
+        "amount": "198"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "30",
+        "amount": "186"
+    },
+    {
+        "sub_type_id": "60838",
+        "type_id": "2",
+        "rec_year": "2024",
+        "rec_month": "8",
+        "rec_day": "31",
+        "amount": "165"
+    }
+])
