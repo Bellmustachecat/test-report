@@ -1,4 +1,4 @@
-db.reports.insertMany([
+db.getCollection('report').insertMany([
     {
         "sub_type_id": "56727",
         "type_id": "1",
@@ -2088,3 +2088,77 @@ db.reports.insertMany([
         "amount": "165"
     }
 ])
+
+db.getCollection('type').insertMany([
+    {
+        "type_id" : "1",
+        "type_name" : "DOG"
+    },
+    {
+        "type_id" : "2",
+        "type_name" : "CAT"
+    },
+    {
+        "type_id" : "3",
+        "type_name" : "Other"
+    }
+])
+
+db.getCollection('sub_type').insertMany([
+    {
+        "_id" : ObjectId("66defed622957178912a4fb7"),
+        "sub_type_id" : "56727",
+        "type_id" : "1",
+        "sub_type_name" : "อะคิตะ"
+    },
+    {
+        "_id" : ObjectId("66defed622957178912a4fb8"),
+        "sub_type_id" : "56728",
+        "type_id" : "1",
+        "sub_type_name" : "ชาเป่ย"
+    },
+    {
+        "_id" : ObjectId("66defed622957178912a4fb9"),
+        "sub_type_id" : "61893",
+        "type_id" : "1",
+        "sub_type_name" : "บาสเซ็ต ฮาวด์"
+    },
+    {
+        "_id" : ObjectId("66defed622957178912a4fba"),
+        "sub_type_id" : "51472",
+        "type_id" : "2",
+        "sub_type_name" : "American Short Hair"
+    },
+    {
+        "_id" : ObjectId("66defed622957178912a4fbb"),
+        "sub_type_id" : "51476",
+        "type_id" : "2",
+        "sub_type_name" : "British Shorthair"
+    },
+    {
+        "_id" : ObjectId("66defed622957178912a4fbc"),
+        "sub_type_id" : "60838",
+        "type_id" : "2",
+        "sub_type_name" : "Scottish Fold"
+    },
+    {
+        "_id" : ObjectId("66defed622957178912a4fbd"),
+        "sub_type_id" : "55555",
+        "type_id" : "3",
+        "sub_type_name" : "Monkey"
+    },
+    {
+        "_id" : ObjectId("66defed622957178912a4fbe"),
+        "sub_type_id" : "33333",
+        "type_id" : "3",
+        "sub_type_name" : "Leo"
+    },
+    {
+        "_id" : ObjectId("66defed622957178912a4fbf"),
+        "sub_type_id" : "22222",
+        "type_id" : "3",
+        "sub_type_name" : "Tiger"
+    }
+])
+
+
