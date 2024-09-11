@@ -55,7 +55,6 @@ export class ReportService {
         (sum, report) => (sum += +report.amount),
         0
       );
-
       const subTypeCounts = _.countBy(
         aggregatedByType[type].map((item) => item.subType)
       );
